@@ -1,0 +1,17 @@
+{
+    "masterVersionFile":"https://github.com/Yumeris/Mikohime_Repo/raw/main/Java23.version",
+    "modName":"Java 23",
+    "modThreadId":29320,
+    "modVersion":
+    {
+        "major":26,
+        "minor":4,
+        "patch":a,
+    },
+    "starsectorVersion":"0.97a-RC11",
+
+"windowsJreDownload": "https://github.com/Yumeris/Mikohime_Repo/releases/download/v.26.4a/Mikohime_23_R26.4a_097a-RC11_win.zip",
+"windowsHimiDownload":"https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B7-ea-beta/OpenJDK-jdk_x64_windows_hotspot_ea_23-0-7.zip",
+"linuxJreDownload": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B9-ea-beta/OpenJDK-jdk_x64_linux_hotspot_23_9-ea.tar.gz",
+"linuxHimiDownload": "https://github.com/Yumeris/Mikohime_Repo/releases/download/v.26.4a/Kitsunebi_23_R26.4a_097a-RC11_linux.zip"
+}
