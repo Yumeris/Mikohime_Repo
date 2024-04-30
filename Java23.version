@@ -6,12 +6,12 @@
     {
         "major":26,
         "minor":4,
-        "patch":ee,
+        "patch":ef,
     },
     "starsectorVersion":"0.97a-RC11",
 
 "windowsJDKDownload": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B7-ea-beta/OpenJDK-jdk_x64_windows_hotspot_ea_23-0-7.zip",
-"windowsConfigDownload": "https://github.com/Yumeris/Mikohime_Repo/releases/download/TriOS/Mikohime_23_R26.4ee_097a-RC11_win.zip",
+"windowsConfigDownload": "https://github.com/Yumeris/Mikohime_Repo/releases/download/TriOS/Mikohime_23_R26.4ef_097a-RC11_win.zip",
 "linuxJDKDownload": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B9-ea-beta/OpenJDK-jdk_x64_linux_hotspot_23_9-ea.tar.gz",
-"linuxConfigDownload": "https://github.com/Yumeris/Mikohime_Repo/releases/download/TriOS/Kitsunebi_23_R26.4ee_097a-RC11_linux.zip"
+"linuxConfigDownload": "https://github.com/Yumeris/Mikohime_Repo/releases/download/26.4d/Kitsunebi_23_R26.4ef_097a-RC11_linux.zip"
 }
